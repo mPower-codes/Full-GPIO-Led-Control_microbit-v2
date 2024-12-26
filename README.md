@@ -1,8 +1,9 @@
 ✅ Voraussetzungen (Prerequisites) für den Micro:bit-Code
 
 Damit der Code auf dem Micro:bit V2 ausgeführt werden kann, benötigst du Folgendes:
-
+------------------------------------------------------------------------------------------------------------
 📦 Hardware:
+
 	1.	Micro:bit V2
 	•	Ein Micro:bit der zweiten Generation wird benötigt.
 	2.	USB-Kabel (Micro-USB auf USB-A)
@@ -19,6 +20,7 @@ Damit der Code auf dem Micro:bit V2 ausgeführt werden kann, benötigst du Folge
 	•	2x AAA-Batterien mit Batteriefach (falls der Micro:bit nicht über USB betrieben wird).
 
 💻 Software:
+
 	1.	Micro:bit MakeCode-Editor
 	•	MakeCode-Editor zum Schreiben und Kompilieren des Codes.
 	2.	Micro:bit Treiber (Windows/Mac/Linux)
@@ -27,6 +29,7 @@ Damit der Code auf dem Micro:bit V2 ausgeführt werden kann, benötigst du Folge
 	•	Alternativ kannst du einen Python-Editor wie Mu-Editor verwenden, um den Code zu bearbeiten.
 
 ⚙️ Bibliotheken und Module:
+
 	1.	Micro:bit Python-Umgebung
 	•	Standardbibliothek für MicroPython auf dem Micro:bit.
 	2.	music Bibliothek
@@ -39,6 +42,7 @@ Damit der Code auf dem Micro:bit V2 ausgeführt werden kann, benötigst du Folge
 	•	Ermöglicht die Erkennung von Tasten- und Logo-Ereignissen.
 
 🛠️ Einrichtungsschritte:
+
 	1.	Schließe den Micro:bit über USB an deinen PC an.
 	2.	Öffne den MakeCode-Editor oder einen Python-Editor.
 	3.	Kopiere den bereitgestellten Code in den Editor.
@@ -46,6 +50,7 @@ Damit der Code auf dem Micro:bit V2 ausgeführt werden kann, benötigst du Folge
 	5.	Trenne den Micro:bit vom PC und starte ihn neu, falls nötig.
 
 🚦 Testen des Codes:
+
 	•	Button A: LED an P2 einschalten.
 	•	Button B: LED an P0 einschalten.
 	•	Button A+B: LEDs blinken nacheinander.
